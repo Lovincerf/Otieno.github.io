@@ -210,8 +210,7 @@ margin: auto;
                     <li>Networking engineer</li>
                 </ul>
             
-                
-                ![me](https://github.com/user-attachments/assets/ab4213b5-16db-4daa-b8d1-b64774c989ff)<img src="C:\Users\DELL\Desktop\Intern\me.jpg" style="width: 180px; height: 280px;"/>
+                <img src="![me](https://github.com/user-attachments/assets/ab4213b5-16db-4daa-b8d1-b64774c989ff)" style="width: 180px; height: 280px;"/>
             </div> 
             </section>
 
