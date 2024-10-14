@@ -133,7 +133,7 @@ margin: auto;
 
         <main>
             <section id="home" class="section">
-                <img src="" style="width: 340px; height: 400px;"/>
+                <img src="![Franki](https://github.com/user-attachments/assets/46d45117-2f6c-44b1-a926-e6ec9499b2b7)" style="width: 340px; height: 400px;"/>
                 <div class="container">
                 <div class="text-block">
                     <h5><p>Let's Work Together!</p>IT Officer | IT Support Specialist </p></h5>
